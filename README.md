@@ -1,4 +1,6 @@
-# BililiveRecorder
+# BiliBili Stream Recorder Docker
+
+https://github.com/Bililive/BililiveRecorder
 
 **WIP: BililiveRecorder server is not stable yet, please do not use it for production.**
 
